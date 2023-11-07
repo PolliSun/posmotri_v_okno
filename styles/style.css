@@ -264,7 +264,7 @@ fieldset {
 }
 
 .more-button {
-  width: 399px;
+  width: 100%;
 }
 
 .button:focus {
