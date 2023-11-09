@@ -229,6 +229,9 @@ fieldset {
   font-weight: 700;
   line-height: 100%;
   padding-top: 4px;
+  text-overflow: ellipsis; 
+  white-space: nowrap; 
+  overflow: hidden;
 }
 
 .content__video-card-description {
